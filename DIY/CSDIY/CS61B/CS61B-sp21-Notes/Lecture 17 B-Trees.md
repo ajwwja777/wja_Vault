@@ -32,6 +32,3 @@ These invariants guarantee that our trees will be bushy: [[20240510202405.png]]
 ---
 Runtime: O(log N).
 Summery: [[20240510203929.png]]
-
-[test1](lec17_2.png)
-![test2](lec17_2.png)
