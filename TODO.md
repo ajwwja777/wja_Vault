@@ -1,0 +1,2 @@
+- [ ] Add a .ignoregit to  ignore pdf.
+- [ ] Creat a repo to repo these file.
